@@ -2,6 +2,7 @@
 TECH2 mandatory assignment - Part A
 
 Write the implementation of part A of the exercise below.
+wehowehr
 """
 
 def std_loops(x):

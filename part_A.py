@@ -27,5 +27,6 @@ def std_builtin(x):
 
 
 
-print(std_loops([1,2,3]))
-print(std_builtin([1,2,3]))
+print(std_loops([1,2,3,4,5])) #solution1
+print(std_builtin([1,2,3,4,5])) #solution2
+print(npy.std([1,2,3,4,5])) #solution3
